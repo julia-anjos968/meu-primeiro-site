@@ -123,3 +123,18 @@ margin-bottom: 40px;
     color:rgb(247, 156, 216);
     transform: translateX(-2px);
 }
+
+footer {
+    background-color:rgb(235, 49, 173);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+}
+
+footer p {
+    background-color: rgb(235, 49, 173);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
